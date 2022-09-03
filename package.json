@@ -1,0 +1,9 @@
+{
+  "name": "express-ab-test-middleware",
+  "version": "1.0.1",
+  "description": "Express middleware for AB testing with server side support",
+  "main": "index.js",
+  "repository": "https://github.com/santosh1994/express-ab-test-middleware.git",
+  "author": "santosh.siddarth123@gmail.com",
+  "license": "MIT"
+}
