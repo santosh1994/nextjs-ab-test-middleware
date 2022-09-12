@@ -26,8 +26,6 @@ var activateAB = require("nextjs-ab-test-middleware");
 
 ### Sample usage
 
-Sample app that will use custom token formats. This adds an ID to all requests and displays it using the `:id` token.
-
 ```js
 var express = require("express");
 const next = require("next");

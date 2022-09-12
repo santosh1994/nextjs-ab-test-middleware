@@ -1,6 +1,6 @@
 {
   "name": "nextjs-ab-test-middleware",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Nextjs middleware for AB testing with server side support",
   "main": "index.js",
   "repository": "https://github.com/santosh1994/nextjs-ab-test-middleware.git",
